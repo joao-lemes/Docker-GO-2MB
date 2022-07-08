@@ -15,7 +15,7 @@
 
 ### Execução:
 
-![Screenshot from 2022-07-08 08-32-13](https://user-images.githubusercontent.com/56354575/177985589-9b012ef5-d3cf-41ae-8039-bc9d9cd77d90.png)
+![Screenshot from 2022-07-08 08-46-09](https://user-images.githubusercontent.com/56354575/177986117-d46b288d-905c-42c6-bf2b-d9af8fb4a696.png)
 
 ### Imagem:
 
